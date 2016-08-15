@@ -7,7 +7,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
 import com.coderefer.androidsplashscreenexample.R;
-
+/**
+ * Created by Lorena, Sarah and Thomas on 01/07/2016.
+ */
 public class ArteActivity extends Activity {
 
     @Override
