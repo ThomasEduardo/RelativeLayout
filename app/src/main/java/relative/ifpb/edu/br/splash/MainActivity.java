@@ -8,7 +8,9 @@ import android.view.View;
 import android.widget.ImageButton;
 
 import com.coderefer.androidsplashscreenexample.R;
-
+/**
+ * Created by Lorena, Sarah and Thomas on 01/07/2016.
+ */
 public class MainActivity extends Activity {
 
     ImageButton Btn1;
