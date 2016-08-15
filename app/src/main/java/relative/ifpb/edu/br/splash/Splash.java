@@ -13,7 +13,9 @@ import com.coderefer.androidsplashscreenexample.R;
 
 import java.util.Timer;
 import java.util.TimerTask;
-
+/**
+ * Created by Lorena, Sarah and Thomas on 01/07/2016.
+ */
 public class Splash  extends Activity {
 
 
