@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.coderefer.androidsplashscreenexample">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="relative.ifpb.edu.br.splash.Splash"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+            android:label="@string/app_name">
+            <intent-filter>
+
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="relative.ifpb.edu.br.splash.MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="com.coderefer.androidsplashscreenexample.MAINACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="relative.ifpb.edu.br.splash.ArteActivity"></activity>
+        <activity android:name="relative.ifpb.edu.br.splash.GeekActivity"></activity>
+        <activity android:name="relative.ifpb.edu.br.splash.ShowActivity"></activity>
+        <activity android:name="relative.ifpb.edu.br.splash.ZueraActivity"></activity>
+        <activity android:name="relative.ifpb.edu.br.splash.Arte1"></activity>
+        <activity android:name="relative.ifpb.edu.br.splash.Arte2"></activity>
+        <activity android:name="relative.ifpb.edu.br.splash.Arte3"></activity>
+        <activity android:name="relative.ifpb.edu.br.splash.Lay1"></activity>
+        <activity android:name="relative.ifpb.edu.br.splash.Lay2"></activity>
+        <activity android:name="relative.ifpb.edu.br.splash.Z1"></activity>
+        <activity android:name="relative.ifpb.edu.br.splash.Z2"></activity>
+        <activity android:name="relative.ifpb.edu.br.splash.Z3"></activity>
+        <activity android:name="relative.ifpb.edu.br.splash.Z4"></activity>
+    </application>
+
+</manifest>
