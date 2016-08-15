@@ -5,6 +5,9 @@ import android.os.Bundle;
 
 import com.coderefer.androidsplashscreenexample.R;
 
+/**
+ * Created by Diego A. Gama on 29/07/2016.
+ */
 public class Arte1 extends Activity {
 
     @Override
