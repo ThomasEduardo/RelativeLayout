@@ -4,7 +4,9 @@ import android.app.Activity;
 import android.os.Bundle;
 
 import com.coderefer.androidsplashscreenexample.R;
-
+/**
+ * Created by Lorena, Sarah and Thomas on 01/07/2016.
+ */
 public class Z1 extends Activity {
 
     @Override
